@@ -1,0 +1,7 @@
+<resources>
+    <string name="title_activity_on_boarding">OnBoardingActivity</string>
+
+    <string name="app_name">PokeMan</string>
+    <string name="splash_screen_image">Splash Screen</string>
+    <string name="splash_description">Welcome to PokeMan</string>
+</resources>
